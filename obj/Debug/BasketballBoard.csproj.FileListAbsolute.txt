@@ -1,0 +1,8 @@
+C:\Users\wikto\Documents\Visual Studio 2015\Projects\BasketballBoard\bin\Debug\BasketballBoard.dll
+C:\Users\wikto\Documents\Visual Studio 2015\Projects\BasketballBoard\bin\Debug\BasketballBoard.pdb
+C:\Users\wikto\Documents\Visual Studio 2015\Projects\BasketballBoard\obj\Debug\BasketballBoard.BasketballBoard.resources
+C:\Users\wikto\Documents\Visual Studio 2015\Projects\BasketballBoard\obj\Debug\BasketballBoard.Properties.Resources.resources
+C:\Users\wikto\Documents\Visual Studio 2015\Projects\BasketballBoard\obj\Debug\BasketballBoard.csproj.GenerateResource.Cache
+C:\Users\wikto\Documents\Visual Studio 2015\Projects\BasketballBoard\obj\Debug\BasketballBoard.dll
+C:\Users\wikto\Documents\Visual Studio 2015\Projects\BasketballBoard\obj\Debug\BasketballBoard.pdb
+C:\Users\wikto\Documents\Visual Studio 2015\Projects\BasketballBoard\obj\Debug\BasketballBoard.csprojResolveAssemblyReference.cache
